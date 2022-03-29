@@ -1,5 +1,5 @@
-# ECM1416-Coursework
-This coursework was made by me, Alperen Turkmen.
+# Computational-Maths
+This project was made by me, Alperen Turkmen.
 
 About the exercise 1:
 We should first find the coordinates of specified paths,
