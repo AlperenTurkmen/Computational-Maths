@@ -13,6 +13,3 @@ Then we should try to approach it with a method called "Euler's method".
 I described how this method works in the program.
 Smaller the step size gets, closer the approximation is made: accuracy is increased and the error is decreased.
 I didn't add the error table because it would be confusing but it could've been be good to add it.
-
-
-I want to add as a note that my computer isn't sufficient for jupyter somehow, hence I couldn't add these explanations in the jupyter file as in the weekly workshops :(.
